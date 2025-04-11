@@ -89,7 +89,7 @@ The bot provides inline buttons for:
     
     CopyEdit
     
-    `git clone https://github.com/ilertha/raydium-token-sniper.git cd raydium-token-sniper`
+    `git clone https://github.com/ilertha/Raydium-token-filtering-sniping-TelegramBot.git cd Raydium-token-filtering-sniping-TelegramBot`
     
 2. **Install dependencies:**
     

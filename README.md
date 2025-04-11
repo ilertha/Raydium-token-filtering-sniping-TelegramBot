@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Raydium Token Sniper Bot** is a Telegram bot designed to monitor the **Raydium** platform on the **Solana blockchain** for newly launched tokens. It filters tokens based on **custom criteria** before launch and provides real-time **token metadata** upon launch. Additionally, the bot features an **"Instant Buy"** integration with Trojan-like trading systems.
+The **Raydium Token Sniper Bot** is a Telegram bot designed to monitor the **Raydium** platform on the **Solana blockchain** for newly launched tokens. It filters tokens based on **custom criteria** before launch and provides real-time **token metadata** upon launch.
 
 ![Main Bot UI](https://github.com/user-attachments/assets/5a5f805a-a4d3-483d-ae96-421fce03c1d9)
 

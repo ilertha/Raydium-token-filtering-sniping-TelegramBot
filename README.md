@@ -118,3 +118,6 @@ The bot provides inline buttons for:
 - **Programming Language**: Python
     
 - **Bot Framework**: python-telegram-bot
+
+## Contact Info
+ Telegram: @ilertha

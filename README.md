@@ -84,20 +84,17 @@ The bot provides inline buttons for:
 ### Steps
 
 1. **Clone the repository:**
-    
-    sh
-    
-    CopyEdit
-    
-    `git clone https://github.com/ilertha/Raydium-token-filtering-sniping-TelegramBot.git cd Raydium-token-filtering-sniping-TelegramBot`
+
+    ```
+        git clone https://github.com/ilertha/Raydium-token-filtering-sniping-TelegramBot.git
+        cd Raydium-token-filtering-sniping-TelegramBot
+    ```
     
 2. **Install dependencies:**
     
-    sh
-    
-    CopyEdit
-    
-    `pip install -r requirements.txt`
+    ```
+    pip install -r requirements.txt
+    ```
     
 3. **Set up API keys:**
     
@@ -107,11 +104,9 @@ The bot provides inline buttons for:
         
 4. **Run the bot:**
     
-    sh
-    
-    CopyEdit
-    
-    `python bot.py`
+    ```
+    python bot.py
+    ```
     
 
 ## Technical Stack
